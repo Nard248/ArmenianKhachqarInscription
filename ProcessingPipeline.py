@@ -37,7 +37,7 @@ PARAMS = {
 
 # Paths
 IMAGE_DIR = Path('./Images')
-SUBMISSION_DIR = Path('./Results/Submission_Lines')
+SUBMISSION_DIR = Path('Results/Submission_Initial')
 
 # Image files to process
 IMAGES_TO_PROCESS = ['Image1', 'Image2', 'Image3', 'Image4']

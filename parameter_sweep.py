@@ -22,7 +22,7 @@ PARAM_GRID = {
     'morph_iterations': [1, 2, 3],
     'denoise_kernel': [3, 5],
     'filter_large': [30, 40, 50, 60, 70],
-    'filter_small': [2, 3, 4],
+    'filter_small': [2, 3, 4], # Too Little - Increase
     'num_peaks': [5, 10, 15],
     'angle_min': [85],
     'angle_max': [95],
